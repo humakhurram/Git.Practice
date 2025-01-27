@@ -1,2 +1,2 @@
 # Git.Practice
-Tthis is my first repsitory.
+This is my first repsitory.
